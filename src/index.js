@@ -8,7 +8,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 // Add our style
 import './assets/style/index.css';
 
-// Edit for check trigger in jenkins test 5
+// Edit for check trigger in jenkins test 6
 ReactDOM.render( <
     App / > ,
     document.getElementById('root')
